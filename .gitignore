@@ -1,0 +1,8 @@
+
+[Bb]uild
+Library
+obj
+Temp
+Exports
+*.csproj
+*.sln
