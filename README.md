@@ -6,7 +6,7 @@ Unity 2021.3.6f1 along with Compatible Microsoft Visual Studio (C# Scripts)
 
 
 Assignment Overview:
-The current piece code has two following problem statements, the candidate needs to complete the functionality as per ConnectFourDemo.webm video .
+The current piece code has two following problem statements, the candidate needs to complete the functionality as per ConnectFourDemo.webm repo video .
 
 Details:
 There are two problem statements. Firstly, as soon as player clicks the (top row) Arrow, the Red checker is not falling in the corresponding column at last possible row.
